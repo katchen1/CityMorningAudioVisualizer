@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: bdd621efb2fd237408e2f80e4d26041f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - the_pfCube: {fileID: 9184203855887849414, guid: 6884305fce9265d479d11843a3bb25a5,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

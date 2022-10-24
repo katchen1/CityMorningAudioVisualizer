@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/MyAudioVisualizer.unity
+    guid: 0aceeb50d5ef04a6281e2533bb0cacb3
+  - enabled: 1
+    path: Assets/Scenes/Gunjo.unity
+    guid: 3a6797cc7143442cd862f977044d2910
+  - enabled: 0
+    path: Assets/Scenes/AudioVisualizer.unity
+    guid: 5b59b59412650734db9b83a5a5893acd
+  m_configObjects: {}
